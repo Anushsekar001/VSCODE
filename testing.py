@@ -1,2 +1,3 @@
 print("Hello World")
-a = input("document")
+a = input("")
+print = (a + "Welcome")
